@@ -1,0 +1,5 @@
+API_BASE_URL = "https://rutube.ru/api/search/video/"
+CLIENT = "wdp"  # Вы можете изменить значение клиента здесь
+
+COOKIE = {"jwt":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJydXBhc3NfaWQiOjI3MzQ5OTk1LCJlbWFpbF9jb25maXJtZWQiOnsidHlwZW9mIjoiYm9vbCIsInZhbHVlIjp0cnVlfSwiaGFzX3Bob25lIjp7InR5cGVvZiI6ImJvb2wiLCJ2YWx1ZSI6ZmFsc2V9LCJleHAiOjE3Mjk5MjE1ODMsIm9yaWdfaWF0IjoxNzI3MzI5NTgzLCJ1c2VyX2lkIjozMjMzMzYzOSwiZGF0YSI6eyJ1c2VyX2luZm8iOnsiaWQiOjMyMzMzNjM5fX0sInVzZXJuYW1lIjoibWhtZWxpbnNraWpAcnV0dWJlLnJ1IiwiZW1haWwiOiJtaG1lbGluc2tpakBydXR1YmUucnUiLCJuYW1lIjoiY2hhbm5lbDMyMzMzNjM5In0.TIRPbVoO6OWoG2jQb_eKiqyv3EB1zWQ_rnyuruofNfM",
+          "uuid": "ce74f7a0-d81b-4b61-b49b-d1378e4a766b"}
